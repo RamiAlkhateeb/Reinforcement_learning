@@ -1,7 +1,3 @@
-"""
-Maze environment used in the first three modules of the course:
-"Beginner to Master: Reinforcement Learning".
-"""
 
 
 from typing import Tuple, Dict, Optional, Iterable
